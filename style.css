@@ -1,0 +1,22 @@
+html{
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/950/424/desktop-wallpaper-lana-del-rey-ultraviolence-ultraviolence.jpg");
+}
+h1{
+    text-align: center;
+    background-color: rgb(12, 12, 100);
+    color: black;
+}
+h1:hover{
+    background-color:black ;
+    color: rgb(12, 12, 100);
+}
+.mando{
+    margin-left: 35%;
+}
+.yaver{
+    margin-left: 25%;
+    margin-right: auto;
+}
+.peter{
+    margin-left: 40%;
+}
